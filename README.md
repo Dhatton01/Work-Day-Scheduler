@@ -1,7 +1,5 @@
 # Work Day Scheduler
 
-### URL : https://sylviaprabudy.github.io/work-day-scheduler/
-
 ## Description
 a simple calendar application that allows a user to save events for each hour of the day. It runs in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
@@ -37,9 +35,4 @@ a simple calendar application that allows a user to save events for each hour of
 - Once it saved, it will store in their local storage.
 - This calendar is desktop and mobile compatible.
 
-## Mock-Up
-![](assets/images/05-third-party-apis-homework-demo.gif)
-
-## Contributor:
-Sylvia Prabudy ©2020 All Rights Reserved.
 - - -
